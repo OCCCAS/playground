@@ -21,7 +21,7 @@ passwd
 Ставит зависимости
 
 ```
-apt install dpkg-dev build-essential gnupg2 git gcc cmake libpcre3 libpcre3-dev zlib1g zlib1g-dev openssl libssl-dev curl unzip -y
+apt install dpkg-dev build-essential gnupg2 git gcc cmake libpcre3 libpcre3-dev zlib1g zlib1g-dev openssl libssl-dev curl unzip libdevil1c2 libxslt1-dev libgd-dev libgeoip-dev -y
 ```
 
 Добавляет GPG ключ nginx
